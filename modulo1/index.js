@@ -38,6 +38,6 @@ let b = 20
 let c = a
 let d =b
 
-// Depois de trocados, teremos o seguinte resultado:
+// Depois de trocados, teremos o seguinte resultado
 console.log("O novo valor de a é", d) // O novo valor de a é 25
 console.log("O novo valor de b é", c) // O novo valor de b é 10
