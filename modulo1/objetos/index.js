@@ -112,7 +112,7 @@ const pessoa = {
   }
   console.log(sobreAlguem.nome)
   console.log(sobreAlguem.nome.length)
-console.log(sobreAlguem.idade)
+console.log(sobreAlguem.idade) 
 console.log(sobreAlguem.profissao)
 console.log(sobreAlguem.profissao.length)
 
