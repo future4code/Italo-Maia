@@ -21,14 +21,27 @@ function retornaArrayOrdenado(array) {
 
 // EXERCÍCIO 04
 function retornaNumerosPares(array) {
-  
+
+const arrayDePar = array.filter((item) => {
+    return item % 2 === 0
+})
+  return arrayDePar
 }
 
 // EXERCÍCIO 05
 function retornaNumerosParesElevadosADois(array) {
  
+const arrayDeParElevado = array.filter((item) => {
+    return item % 2 === 0
+})
+  for(let i = 0; i < arrayDeParElevado.length; i++)
+{
+   novoArray = arrayDeParElevado[i] ** 2
+   arrayReal += novoArray
+       return arrayReal
 }
 
+}
 // EXERCÍCIO 06
 function retornaMaiorNumero(array) {
   
