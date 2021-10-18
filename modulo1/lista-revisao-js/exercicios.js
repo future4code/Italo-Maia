@@ -10,12 +10,12 @@ function retornaTamanhoArray(array) {
 
 // EXERCÍCIO 02
 function retornaArrayInvertido(array) {
-  return retornaArrayInvertido.reverse()
+ 
 }
 
 // EXERCÍCIO 03
 function retornaArrayOrdenado(array) {
-  return retornaArrayOrdenado.prototype()
+    
 }
 
 // EXERCÍCIO 04
