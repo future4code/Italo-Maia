@@ -138,3 +138,5 @@ operacoes(numerotrinta, numero)
     console.log(Number(numero) / Number(numerotrinta))
 }
 operacoes(numerotrinta, numero)*/
+
+ 

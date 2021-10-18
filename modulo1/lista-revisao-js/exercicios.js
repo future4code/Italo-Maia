@@ -43,8 +43,21 @@ const arrayDeParElevado = array.filter((item) => {
 
 }
 // EXERCÍCIO 06
+
+let maiorNumero = 0
+
 function retornaMaiorNumero(array) {
-  
+
+for(i = 0; i < array.length; i++){
+    if(array[i] > maiorNumero){
+        maiorNumero = array[i]
+        arrayteste += maiorNumero
+    }
+return arrayteste
+}
+
+console.log(arrayteste)
+
 }
 
 // EXERCÍCIO 07
