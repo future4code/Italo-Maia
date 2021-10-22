@@ -1,0 +1,12 @@
+#header{
+    border:  2px;
+    margin: 2px;
+    padding: 30px;
+    width: 100px;
+    height: 100px;
+}
+.test{
+   border:  2px;
+   margin: 0;
+   padding: 2px;
+}
